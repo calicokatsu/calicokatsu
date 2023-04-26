@@ -20,4 +20,4 @@ You can contact me on Discord via Katsu#0001.
 You may also contact me via [Katsu on Twitter](https://twitter.com/calicokatzzzu)
 
 # 📊 My GitHub Stats
-![Katsu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tenKatsu)
+![Katsu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CalicoKatsu)
