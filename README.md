@@ -1,4 +1,4 @@
-### Hi there, I'm Lily or Katsu 👋
+### Hi there, I'm Katsu 👋
 
 # ⚡ Fun fact: 
 Did you know?
