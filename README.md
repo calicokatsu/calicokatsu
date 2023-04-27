@@ -1,4 +1,4 @@
-🎨Profile Pic by [toridokii](https://twitter.com/toriidoki)
+🎨 Profile Picture by [toridokii](https://twitter.com/toriidoki)
 ### Hi there, I'm Katsu 👋
 
 # ⚡ Fun fact: 
