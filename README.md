@@ -22,3 +22,5 @@ You may also contact me via [Katsu on Twitter](https://twitter.com/calicokatzzzu
 
 # 📊 My GitHub Stats
 ![Katsu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CalicoKatsu)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calicokatsu)](https://github.com/anuraghazra/github-readme-stats)
