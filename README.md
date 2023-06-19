@@ -17,7 +17,7 @@ Did you know?
 - Small, Private Projects in Python
 
 # 📩How to reach me:
-You can contact me on Discord via Katsu#0001. 
+You can contact me on Discord via @calicokatsu. 
 You may also contact me via [Katsu on Twitter](https://twitter.com/calicokatzzzu)
 
 # 📊 My GitHub Stats
