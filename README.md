@@ -12,6 +12,7 @@ Did you know?
 
 - [Premid's Paramount+ Presence](https://github.com/tenKatsu/Presences)
 - My [Website](https://katsu.fun)
+- [@Alt_RightBot on Twitter](https://twitter.com/Alt_RightBot) (Now offline due to API Pricing)
 - Kirby Music (See my website above)
 - Violet (Discord bot for my Private Server)
 - Small, Private Projects in Python
