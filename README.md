@@ -11,15 +11,16 @@ Did you know?
 # 🔨 Things I've made/contributed to:
 
 - [Premid's Paramount+ Presence](https://github.com/tenKatsu/Presences)
-- My [Website](https://katsu.fun)
+- My [Website](https://calicokatsu.lol)
 - [@Alt_RightBot on Twitter](https://twitter.com/Alt_RightBot) (Now offline due to API Pricing)
 - Kirby Music (See my website above)
 - Violet (Discord bot for my Private Server)
 - Small, Private Projects in Python
 
-# 📩How to reach me:
-You can contact me on Discord via @calicokatsu. 
-You may also contact me via [Katsu on Twitter](https://twitter.com/calicokatzzzu)
+# 📩 My Socials:
+- Discord: @calicokatsu
+- [Twitter](https://twitter.com/calicokatzzzu)
+- [BlueSky Social](https://bsky.app/profile/calicokatsu.lol) or calicokatsu.lol
 
 # 📊 My GitHub Stats
 ![Katsu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CalicoKatsu)
