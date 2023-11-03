@@ -25,6 +25,4 @@ The more you know
 - [BlueSky Social](https://bsky.app/profile/calicokatsu.lol) or calicokatsu.lol
 
 # 📊 My GitHub Stats
-![Katsu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CalicoKatsu)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calicokatsu)](https://github.com/anuraghazra/github-readme-stats)
