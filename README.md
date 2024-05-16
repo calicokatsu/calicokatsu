@@ -1,4 +1,4 @@
-🎨 Character and PFP Art belong to [toridokii](https://twitter.com/toriidoki)
+🎨 Character and PFP Art belong to [mayura_nebo](https://twitter.com/mayura_nebo)
 ### Hi there, I'm Katsu 👋
 
 # ⚡ Fun fact: 
