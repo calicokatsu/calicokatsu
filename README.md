@@ -2,6 +2,7 @@
 
 [![Logo](https://github.com/user-attachments/assets/a99cd6ab-9f68-48a9-8a8c-c761fd9c5b64)
 ](https://bsky.app/profile/calicokatsu.fun)
+
 logo made by me
 
 # 🔧 Languages, Technologies and tools I use
