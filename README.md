@@ -1,5 +1,3 @@
-🎨 Character and PFP Art belongs to [mayura_nebo](https://twitter.com/mayura_nebo)
-
 [![Logo](https://github.com/user-attachments/assets/a99cd6ab-9f68-48a9-8a8c-c761fd9c5b64)
 ](https://bsky.app/profile/calicokatsu.fun)
 
